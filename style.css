@@ -1,0 +1,23 @@
+body {
+    background: #cbf3f0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+div {
+    height: 300px;
+    width: 400px;
+    border: #000000 solid 3px;
+    margin: 2%;
+}
+
+.a1 {
+    background: #5d3a3a;
+}
+
+.b1 {
+    width: 200px;
+    height: 200px;
+    background: #b5e0ba;
+}
