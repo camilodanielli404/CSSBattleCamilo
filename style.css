@@ -38,3 +38,40 @@ div {
     background: #fdc57b;
     border: 0;
 }
+
+div.a3 {
+    background: #6592CF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    height: 150px;
+    background: #243D83;
+    position: absolute;
+    border-radius: 100%
+}
+
+p#a {
+    width: 300px;
+    border-radius: 0%
+}
+
+p#b {
+    width: 250px;
+    height: 250px;
+    background: #6592CF;
+}
+
+p#c {
+    width: 150px;
+    height: 150px;
+    background: #243D83;
+}
+
+p#d {
+    width: 50px;
+    height: 50px;
+    background: #EEB850;
+}
